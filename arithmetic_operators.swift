@@ -1,5 +1,4 @@
 #! /usr/bin/env swift
-<<<<<<< HEAD
 
 //  +   Addition
 //  -   Subtraction
@@ -35,5 +34,3 @@ aa += 2
 
 aa -= 1
 // aa is now equal to 2
-=======
->>>>>>> origin/main
